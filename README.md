@@ -34,8 +34,6 @@ The assignment involved collecting, processing, and analyzing Twitter data relat
 
 ## 📊 Visualization
 - Plotted data using Python’s `Matplotlib` and `Seaborn`.
-- Designed an interactive report in Google Looker Studio.
-- [🔗 View Looker Studio Dashboard](https://lookerstudio.google.com/u/0/reporting/ed095322-5d4f-41b5-bd73-091d8c52c7d5/page/p_500e3s5jsd?s=kvVrZU7KTDQ)
 
 ---
 
